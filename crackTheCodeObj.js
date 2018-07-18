@@ -2,23 +2,6 @@
 
 let input =  'craft block argon meter bells brown croon droop';
 
-
-
-// let decode= function(word) {
-//   let firstChar = word[0];
-//   if (firstChar === 'a') {
-//     return word[1];
-//   } else if (firstChar === 'b') {
-//     return word[2];
-//   } else if (firstChar === 'c') {
-//     return word[3];
-//   } else if (firstChar === 'd') {
-//     return word[4];
-//   } else {
-//     return ' ';
-//   }
-// };
-
 const cipher = {
   a : 2,
   b : 3,
