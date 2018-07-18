@@ -36,7 +36,7 @@ let decode = function(word) {
   }
 };
 
-let decodedWords = function(input) {
+function decodedWords(input) {
   let newArray = input.split(' ');
   decode(newArray);
   let decoded = '';
